@@ -8,7 +8,7 @@ gem 'rails', '~> 5.2.3'
 
 gem 'bootstrap-sass'
 
-gem 'faker', '~> 1.9'
+gem 'faker', '~> 2.8'
 gem 'will_paginate',           '~> 3'
 gem 'bootstrap-will_paginate', '~> 1'
 
